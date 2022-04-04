@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic-Collections-Datastructure", "Generic-Collections-Datastructure\Generic-Collections-Datastructure.csproj", "{7E3B66E7-4247-43BF-B6AF-3E9E185CD285}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{604B48D4-945F-4BA8-A271-A5C50CFCDD05}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E3B66E7-4247-43BF-B6AF-3E9E185CD285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3B66E7-4247-43BF-B6AF-3E9E185CD285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3B66E7-4247-43BF-B6AF-3E9E185CD285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3B66E7-4247-43BF-B6AF-3E9E185CD285}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71CE00F1-E316-40ED-A5DA-656E252139C6}
+	EndGlobalSection
+EndGlobal
